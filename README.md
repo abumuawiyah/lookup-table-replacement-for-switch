@@ -22,6 +22,6 @@ var lookup = function(){
 }();
 </code></pre>
 
-Reference:
-1. <b>Todd Motto</b> : https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/
-2. <b>Stoyan Stefanov</b> - Immediate Object Initialization
+Reference:<br/><br/>
+1. <b>Todd Motto</b> : https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/ <br/>
+2. <b>Stoyan Stefanov</b> - Immediate Object Initialization <br/>
