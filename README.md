@@ -21,3 +21,7 @@ var lookup = function(){
     }).get(index);
 }();
 </code></pre>
+
+Reference:
+1. <b>Todd Motto</b> : https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/
+2. <b>Stoyan Stefanov</b> - Immediate Object Initialization
